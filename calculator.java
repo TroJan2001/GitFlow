@@ -1,1 +1,2 @@
-calculator(){}
+//calculator(){} this is deprecated
+scientificCalculator(){}
